@@ -1478,7 +1478,8 @@ footer .bottom h2 {
 }
 
 .join_frist_box .join_img_box1 img {
-	max-width: 100%;
+	width: 100%;
+	height: 100%;
 }
 
 .join_frist_box .join_txt_box {
